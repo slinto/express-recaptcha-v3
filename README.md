@@ -1,9 +1,4 @@
-# express-recaptcha
-
-[![NPM](https://nodei.co/npm/express-recaptcha.png?compact=true)](https://nodei.co/npm/express-recaptcha/)
-
-[![Build Status][ci-image]][ci-url]
-[![npm version][npm-version-image]][npm-version-url]
+# express-recaptcha-v3
 
 [Google recaptcha][Google-recaptcha] middleware for express.
 
